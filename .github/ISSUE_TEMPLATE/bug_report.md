@@ -45,3 +45,7 @@ Si es posible, añade capturas de pantalla o registros de errores.
 ### Información adicional
 
 Cualquier otra información relevante.
+
+### Mi aporte
+
+Este es la informacion de mi bug
