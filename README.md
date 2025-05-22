@@ -73,3 +73,5 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 Puedes verla [aquí](/Paquete/).
 
 Prueba pull requests
+
+El lenguaje de marcado **Markdown (.md)** permite estructurar texto con formato simple y legible. Se usa para documentaciones, README y sitios estáticos, facilitando negritas, listas, enlaces y títulos fácilmente.
